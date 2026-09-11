@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/
+**/terraform.tfstate
+**/terraform.tfstate.*
+!**/.terraform.lock.hcl
+
+# Node.js
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
